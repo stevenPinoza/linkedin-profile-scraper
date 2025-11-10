@@ -1,0 +1,6 @@
+{
+  "urls": [
+    "https://www.linkedin.com/in/john-doe-123456789/",
+    "https://www.linkedin.com/in/jane-doe-987654321/"
+  ]
+}
