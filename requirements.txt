@@ -1,0 +1,5 @@
+requests==2.26.0
+beautifulsoup4==4.10.0
+
+linkedin-profile-scraper/.keep
+textThis directory contains data files for the project. Do not delete.
